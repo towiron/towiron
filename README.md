@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="center">Hi, I’m Botir</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=towiron"></a>
+</p>
 
-<!--
-**towiron/towiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’m currently learning Python and Go</br>
+- 🔎 I’m looking for a job</br>
+- ⚡ Fun fact: I use tabs over spaces</br>
+
+### Feel Free to Connect with me:
+[<img align="left" alt="telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/4401/4401433.png" />][telegram]
+[<img align="left" alt="linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
+
+<br>
+
+
+[telegram]: https://t.me/shirmatovb
+[linkedin]: https://www.linkedin.com/in/shirmatov-botir/
