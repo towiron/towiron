@@ -5,7 +5,7 @@
 
 
 
-- 🎓 I’m currently learning Python and Go</br>
+- 🎓 I’m currently learning Python</br>
 - 🔎 I’m looking for a job</br>
 - ⚡ Fun fact: I use tabs over spaces</br>
 
