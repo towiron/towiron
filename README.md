@@ -18,3 +18,6 @@
 
 [telegram]: https://t.me/shirmatovb
 [linkedin]: https://www.linkedin.com/in/shirmatov-botir/
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=towiron&hide=TeX&layout=compact)
