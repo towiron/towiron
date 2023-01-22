@@ -20,7 +20,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height ="30"><b> Skills</b>>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height ="30" width="30"><b> Skills</b>
 
 <p align="center">
 
@@ -49,7 +49,7 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
     
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height ="30"><b> Leetcode Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height ="30" width="30"><b> Leetcode Stats </b>
  
  <div align="center">
 
@@ -57,7 +57,7 @@
 
 </div>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" height ="30"><b>Let's Connect!</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" height ="30" width="30"><b>Let's Connect!</b>
 
 <br>
 <div align='left'>
