@@ -57,7 +57,7 @@
 
 </div> -->
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" height ="30" width="30"><b>Let's Connect!</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" height ="30"><b>Let's Connect!</b>
 
 <br>
 <div align='left'>
