@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&width=340&height=60&lines=Python+Developer" alt="Typing SVG" /></a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height ="30" width="30"><b> Skills</b>
+## Skills
 
 <p align="center">
 
@@ -30,7 +30,7 @@
     
 
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" height ="30"><b>Let's Connect!</b>
+## Let's Connect!
 
 
 <div align='left'>
